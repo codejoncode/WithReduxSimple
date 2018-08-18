@@ -1,3 +1,6 @@
 [submodule "redux-file"]
 	path = redux-file
 	url = https://github.com/codejoncode/ReduxSimpleStarter.git
+[submodule "redux"]
+	path = redux
+	url = https://github.com/StephenGrider/ReduxSimpleStarter.git
